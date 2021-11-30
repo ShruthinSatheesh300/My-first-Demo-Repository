@@ -1,0 +1,2 @@
+what is the command for finding the file size of 5mb . txt and above-
+find -name "*.txt" -size +5M
